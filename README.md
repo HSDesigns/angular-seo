@@ -4,7 +4,7 @@ This project is based on the [Angular SEO Tutorial](https://coursetro.com/posts/
 
 Feel free to clone this repo as a quick way to get up and running with an SEO-ready, Angular CLI-ready, Angular 4+ project.
 
-#HS Designs
+# HS Designs
 The original project was not working dues to updates on angular CLI.
 Have updated the package.json to be able to run Gary's project in a quick stable manner.
 Thanks Gary for all your teachings.
